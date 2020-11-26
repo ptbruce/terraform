@@ -4,7 +4,7 @@
 provider "aws" {
  access_key = "AKIAIAPG4TULSRAKP7IA"
  secret_key = "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"
- region     = "us-east-1"
+ region     = "eu-west-2"
 } 
 # This is a single-line comment. 
 
